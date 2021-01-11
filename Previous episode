@@ -1,0 +1,7 @@
+bot.command({
+name: "What are the previous episode?",
+code: The previous episodes of my is Star Buddies and To the moon and back.
+Star Buddies:PJ Robot wants to be Newton's space buddy, but first he needs to power up!
+To the moon and back :  Catboy wants to be able to teleport to the moon like Motsuki.
+Link:https://youtu.be/jVxWKqC40_w
+})
