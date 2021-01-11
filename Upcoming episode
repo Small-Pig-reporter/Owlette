@@ -1,0 +1,4 @@
+bot.command({
+name: "Owlette What is the upcoming episode?",
+code: Hi! There are 4 new episodes with the info we have. The nearest episode is Octobella garden ; Sploshy Splash. Please stay tuned at the new episodes announcement. 
+})
