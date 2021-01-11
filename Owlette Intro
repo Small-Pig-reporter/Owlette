@@ -1,0 +1,4 @@
+bot.command({
+name: "Hi Owlette",
+code:Hi! I am Owlette from PJ Masks. I am a bot as Owlette. All my words is from the Pj Masks. U can use me to moderate server too. I also have a episode system.  Please type ```Help me Owlette``` to know how to use me.  
+})
