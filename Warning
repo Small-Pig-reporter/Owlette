@@ -1,0 +1,3 @@
+bot.command({
+name: "warn",
+code: $description [USER <@$mentioned[1]> has been warn ===> $getUserVar [warn; $mentioned[1]]$setUserVar [warn; $sum[$getUserVar [warn; $mentioned [1]];1]; $mentioned[1]]] SonlyPerms [kick; wtf are you doing your not a admin] })
