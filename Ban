@@ -1,0 +1,4 @@
+bot.command({
+name: "ban",
+code: $description[user $mentioned [1] has been banned permanently from the server] $ban[$mentioned[1]] $onlyPerms [kick;wait what are you doing here? You are not the admin]
+})
