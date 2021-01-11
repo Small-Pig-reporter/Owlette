@@ -1,0 +1,7 @@
+bot.command({
+name: "Help me Owlette",
+code: How to use other of my awesome power? 
+If u want to use my other power, send the last word with the first letter capitalized. Ex: Super Owl Wings ( Wings the prefix )
+How to use my Owl eyes ? Here the instruction. 
+If u want to use my Owl eyes, send the character u want to see and add a ! at the behind. All Owl eyes commands is Owl eyes, Owlette Wind, Owlette Wings , Owlette Glider , Owlette Shield
+})
