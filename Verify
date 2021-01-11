@@ -1,0 +1,10 @@
+{
+ channel: "$channelID",
+ code: 
+$giveRoles[$authorID;$getObjectProperty[$replaceText[$replaceText[$emojiToString;<;#LEFT_CLICK#];>;#RIGHT_CLICK#]]]
+$createObject[{$getMessageVar[rr]}]
+$onlyIf[$getMessageVar[rr]!=;]
+$onlyIf[$getChannelVar[rrole]!=;]
+$onlyIf[$isBot==false;]
+    
+}
